@@ -1,17 +1,4 @@
-"""
-K4 — Ngày 1: Khám Phá LLM API (4 tiếng)
-AICB-P1: AI Practical Competency Program, Phase 1
-
-Hướng dẫn:
-    1. Làm theo LAB_GUIDE.md — mỗi block có các bước chi tiết và checkpoint.
-    2. Điền vào tất cả các chỗ đánh dấu TODO.
-    3. KHÔNG đổi chữ ký hàm (tên hàm, tham số).
-    4. Import OpenAI BÊN TRONG hàm (xem gợi ý) — nếu import ở đầu file,
-       các bài test mock sẽ không hoạt động.
-    5. Kiểm tra tiến độ:  pytest tests/test_part1.py -v  (từng phần)
-       Chấm điểm tổng:    python grade.py
-"""
-
+### Bản update của Template
 import os
 import time
 from typing import Any, Callable
